@@ -17,7 +17,7 @@ let number_of_students = 27
 //part one
 let length = 10
 let width = 5
-let area = width*length
+let area = width * length
 console.log(area)
 console.log("The area is: " + length * width)
 
